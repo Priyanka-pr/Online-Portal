@@ -1,0 +1,2 @@
+# Online-Portal
+This is a simple dynamic and static online shopping website to buy products of a particular brand which include  beauty, wellness and personal care products. In this portal people can fill their details in our contact us  form for further details. HTML,CSS and Bootstrap4  is used for Front-end and Php and MySQL  is used for database connectivity. VS Code is used to add source code and Xampp server is used to run php file.
